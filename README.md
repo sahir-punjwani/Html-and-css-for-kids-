@@ -1,3 +1,3 @@
 # Html and css for kids
-Your kids can learn html from this
-   
+# Our plan
+   children who does intrest in programing can learn basic HTML from this.
